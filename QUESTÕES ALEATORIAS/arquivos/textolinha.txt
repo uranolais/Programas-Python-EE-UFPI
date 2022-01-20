@@ -1,0 +1,13 @@
+Int-inteiros
+Float- números fracionados
+String- “elétrica”, eles ficam entre aspas
+Boolean- tipo logico
+Dir(a) (saber as funções, por exemplo: import math, dir (math))
+Help(a.metodo)(para tirar alguma duvida, por exemplo: help (math.exp))
+Type “elétrica” (caso esteja em duvida do tipo, se é string, inteiro, float)
+Id (“string”) (ver o código de localização na memoria)
+**1/2 ou sqrt (raiz quadrada)
+Alt + N (volta um comando) Alt+P (deletar o comando voltado)
+a,b=x,y (atribuição múltipla
+IF x: (não se esquecer do espaçamentos(identação/bloco) e dos dois pontos)
+Not- negação
